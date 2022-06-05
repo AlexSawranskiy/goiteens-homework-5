@@ -1,0 +1,246 @@
+/* primary-color: color: #212121 */
+/* text-color: color: #757575 */
+/* secondary-color: color: #FFFFFF */
+/* secondary-link-color: rgba(255, 255, 255, 0.6); */
+/* accent-color: color: #2196F3 */
+
+/* Header */
+.logo {
+ color: #000000;
+ text-decoration: none;
+ font-family: Raleway;
+ font-style: normal;
+ font-weight: 700;
+ font-size: 26px;
+ line-height: 1.2;
+ letter-spacing: 0.03em;
+}
+
+html {
+    box-sizing: border-box;
+}
+
+*,
+*::before
+*::after {
+    box-sizing: inherit;
+}
+
+.logo-span {
+    color: #2196F3;
+}
+
+.nav-link {
+    color: #212121;
+    text-decoration: none;
+}
+
+.nav-link:hover {
+    color: #2196F3;
+}
+.list-item {
+    color:#757575;
+    text-decoration: none;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.1;
+    letter-spacing: 0.02em;
+}
+
+.list-item:hover {
+    color: #2196F3;
+}
+
+.list-item:focus {
+    color: #2196F3;
+}
+
+/* Hero */
+.hero-section {
+    background-color: #2F303A;
+}
+
+.hero-title {
+    color: #FFFFFF;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 1.4;
+    text-align: center;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+}
+
+.nav-list {
+    list-style: none;
+}
+
+.link-list {
+    list-style: none;
+}
+
+.title {
+    color: #212121;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 1.1;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+}
+
+.text {
+    color: #757575;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.7;
+    letter-spacing: 0.03em;
+}
+
+.list-wrapper {
+    list-style: none;
+}
+
+.title-2 {
+    color: #212121;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.2;
+    text-align: center;
+    letter-spacing: 0.03em;
+}
+
+.gadgets {
+    list-style: none;
+}
+
+.person {
+    list-style: none;
+}
+
+.title-item {
+    color: #212121;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.2;
+    text-align: center;
+    letter-spacing: 0.03em;
+}
+
+.type-text {
+    color: #212121;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.2;
+    letter-spacing: 0.03em;
+}
+
+.text-person {
+    color: #757575;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.2;
+    letter-spacing: 0.03em;
+}
+
+address {
+    color: #FFFFFF;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.7;
+    letter-spacing: 0.03em;
+}
+
+.footer {
+    background-color: #2F303A;
+}
+
+*a {
+    text-decoration: none;
+}
+
+.navigation {
+    list-style: none;
+}
+
+.list {
+    text-decoration: none;
+    color: #212121;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.6;
+    text-align: center;
+    letter-spacing: 0.03em;
+}
+
+.list:hover {
+    color: #2196F3;
+}
+
+.list-projects {
+    list-style: none;
+}
+
+.projects {
+    text-decoration: none;
+}
+
+.projects-wrapper {
+    color: #212121;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 2;
+    letter-spacing: 0.06em;
+}
+
+.projects-light {
+    color: #757575;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.9;
+    letter-spacing: 0.03em;
+}
+
+.button {
+    background-color: #2196F3;
+    color: #FFFFFF;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 1.9;
+    letter-spacing: 0.06em;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container {
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    padding-left: 15px;
+    padding-right: 15px;
+}
